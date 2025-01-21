@@ -1,4 +1,4 @@
-# csc133-assignment2
+# csc133-hw2-gridrender
 
 ## Render a grid of colored squares onto the screen using OpenGL
 
